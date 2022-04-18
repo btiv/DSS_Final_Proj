@@ -1,0 +1,11 @@
+Number of Countries: 35
+Number of points in training set: 385 (data from 2003 to 2014)
+Number of points in testing set: 140 (data from 2017 to 2021)
+List of Countries: 
+'Germany', 'France', 'Australia', 'Brazil', 'Italy', 'Spain',
+'Canada', 'Netherlands', 'Switzerland', 'India', 'Sweden',
+'South Africa', 'Mexico', 'Japan', 'Belgium', 'Russia', 'Poland',
+'Portugal', 'Finland', 'Czech Republic', 'Denmark', 'New Zealand',
+'Austria', 'Argentina', 'Norway', 'Indonesia', 'Chile', 'Colombia',
+'Israel', 'Costa Rica', 'Peru', 'Estonia', 'Croatia', 'Ukraine',
+'Puerto Rico'
