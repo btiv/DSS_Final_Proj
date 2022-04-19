@@ -1,5 +1,5 @@
-Length of train set: 298
-Length of test set: 128
+Length of train set: 350
+Length of test set: 68
 Features detemined via Decision Tree
 Sparse Features: 
 'Change_Citations', 'Change_Citations_Prev_1', 'Change_Citations_Prev_3'
