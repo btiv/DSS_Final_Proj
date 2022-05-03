@@ -1,3 +1,0 @@
-Length of train set: 350
-Length of test set: 68
-Only data points corresponding to an increase in protected land
