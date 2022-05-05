@@ -15,7 +15,7 @@ driver.get('https://www-webofscience-com.ezproxy.library.tufts.edu/wos/woscc/sum
 driver.manage().window().maximize()
 
 driver.refresh()
-for low in range(38001, 110000, 1000): 
+for low in range(1, 110000, 1000): 
     high = low + 999
     #time.sleep(2)
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="snRecListTop"]/app-export-menu/div/button/span[1]')))
