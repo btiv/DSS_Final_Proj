@@ -14,12 +14,8 @@ Our results suggest that domestic and collaborative research have a quicker impa
 ## File descriptions
 1. [Data](https://github.com/btiv/DSS_Final_Proj/tree/main/data) is being kept in the data folder. This folder contains 2 sub folders, each sub folder contains data for each case study: the [Brazilian Amazon](https://github.com/btiv/DSS_Final_Proj/tree/main/data/Amazon_research), and all [Brazilian primary forests](https://github.com/btiv/DSS_Final_Proj/tree/main/data/Brazil_research). We provided both raw and cleaned data. 
 2. Notebook file contains all the code used for data preprocessing and run the model 
-   1. Final Project Brazil Clean.ipynb:  notebook to clean Brazil forest data
-   2. Final Project Brazil.ipynb
-   3. [Final_Project_Amazon_Clean.ipynb](https://github.com/btiv/DSS_Final_Proj/blob/main/notebook/Final_Project_Amazon_Clean.ipynb): notebook will all model created for all Brazilian Amazon case study
-   4. Final_Project_Brazil_Clean.ipynb
-   5. final project Brazil country level.ipynb
-   6. [Final Project Brazil_40k.ipynb](https://github.com/btiv/DSS_Final_Proj/blob/main/notebook/Final%20Project%20Brazil_40k.ipynb): notebook will all model created for all Brazilian primary forests case study
-3. [web_scrapping](https://github.com/btiv/DSS_Final_Proj/tree/main/web_scraping): notebook to download data from Wos
+   1. [amazon_casestudy.ipynb](https://github.com/btiv/DSS_Final_Proj/blob/main/notebook/Final_Project_Amazon_Clean.ipynb): notebook will all model created for all Brazilian Amazon case study\
+   2. [brazil_casestudy.ipynb](https://github.com/btiv/DSS_Final_Proj/blob/main/notebook/Final%20Project%20Brazil_40k.ipynb): notebook will all model created for all Brazilian primary forests case study
+3. [WoS_data_cleaning.ipynb](https://github.com/btiv/DSS_Final_Proj/tree/main/web_scraping): notebook to filtering data
 
 (README as of 4/10/22)
