@@ -16,10 +16,10 @@ Our results suggest that domestic and collaborative research have a quicker impa
 2. Notebook file contains all the code used for data preprocessing and run the model 
    1. Final Project Brazil Clean.ipynb:  notebook to clean Brazil forest data
    2. Final Project Brazil.ipynb
-   3. Final_Project_Amazon_Clean.ipynb: notebook will all model created for all Brazilian Amazon case study
+   3. [Final_Project_Amazon_Clean.ipynb](https://github.com/btiv/DSS_Final_Proj/blob/main/notebook/Final_Project_Amazon_Clean.ipynb): notebook will all model created for all Brazilian Amazon case study
    4. Final_Project_Brazil_Clean.ipynb
    5. final project Brazil country level.ipynb
-   6. Final Project Brazil_40k.ipynb: notebook will all model created for all Brazilian primary forests case study
+   6. [Final Project Brazil_40k.ipynb](https://github.com/btiv/DSS_Final_Proj/blob/main/notebook/Final%20Project%20Brazil_40k.ipynb): notebook will all model created for all Brazilian primary forests case study
 3. [web_scrapping](https://github.com/btiv/DSS_Final_Proj/tree/main/web_scraping): notebook to download data from Wos
 
 (README as of 4/10/22)
